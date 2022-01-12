@@ -18,3 +18,4 @@ Example
 ![](https://github.com/Stas-inside/Tic-Tac-Toe-Online/blob/main/Photoes/Screenshot%20(389).png)
 
 v2
+![](https://github.com/Stas-inside/Tic-Tac-Toe-Online/blob/main/Photoes/Capture.PNG)
