@@ -2,10 +2,20 @@
 
 ### Online game with two clients and 1 host
 
-v1
+v3
 
 Photoes
-1
+
+Startup
+
+![](https://github.com/Stas-inside/Tic-Tac-Toe-Online/blob/main/Photoes/Screenshot%20(515).png)
+
+Winner
+
+![](https://github.com/Stas-inside/Tic-Tac-Toe-Online/blob/main/Photoes/Screenshot%20(517).png)
+
+---
+old version
 
 ![](https://github.com/Stas-inside/Tic-Tac-Toe-Online/blob/main/Photoes/Screenshot%20(387).png)
 
