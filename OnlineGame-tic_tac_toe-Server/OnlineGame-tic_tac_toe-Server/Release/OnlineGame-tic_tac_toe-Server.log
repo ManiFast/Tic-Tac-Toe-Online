@@ -1,0 +1,9 @@
+﻿  OnlineGame-tic_tac_toe-Server.cpp
+C:\Users\karak\OneDrive\Рабочий стол\OnlineGame-tic_tac_toe-Server\OnlineGame-tic_tac_toe-Server\OnlineGame-tic_tac_toe-Server.cpp(212,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\karak\OneDrive\Рабочий стол\OnlineGame-tic_tac_toe-Server\OnlineGame-tic_tac_toe-Server\OnlineGame-tic_tac_toe-Server.cpp(194): warning C4715: 'checkCor': not all control paths return a value
+C:\Users\karak\OneDrive\Рабочий стол\OnlineGame-tic_tac_toe-Server\OnlineGame-tic_tac_toe-Server\OnlineGame-tic_tac_toe-Server.cpp(95): warning C4715: 'inputCor': not all control paths return a value
+  All 17 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  OnlineGame-tic_tac_toe-Server.vcxproj -> C:\Users\karak\OneDrive\Рабочий стол\OnlineGame-tic_tac_toe-Server\Release\OnlineGame-tic_tac_toe-Server.exe

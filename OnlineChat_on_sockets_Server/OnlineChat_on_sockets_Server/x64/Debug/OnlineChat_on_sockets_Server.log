@@ -1,3 +1,0 @@
-﻿  OnlineChat_on_sockets_Server.cpp
-H:\Disk\qwerty\C++\My projects\OnlineChat_on_sockets_Server\OnlineChat_on_sockets_Server\OnlineChat_on_sockets_Server.cpp(144,79): warning C4312: приведение типов: преобразование из "int" в "LPVOID" большего размера
-  OnlineChat_on_sockets_Server.vcxproj -> H:\Disk\qwerty\C++\My projects\OnlineChat_on_sockets_Server\x64\Debug\OnlineChat_on_sockets_Server.exe
