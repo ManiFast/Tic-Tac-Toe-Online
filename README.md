@@ -1,4 +1,4 @@
-# Tic-Tac-Toe-Online  
+# Tic-Tac-Toe-Online   
 
 ### Online game with two clients and 1 host (I did so even two clients in 1 file!)
 *YEAH I did it! Its so nice*
